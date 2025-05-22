@@ -1,0 +1,15 @@
+# Java (Spring Boot backend)
+backend/target/
+backend/.idea/
+*.iml
+
+# Node.js (React frontend)
+frontend/node_modules/
+frontend/build/
+
+# Environment files
+.env
+*.log
+
+# macOS / Linux system files
+.DS_Store
